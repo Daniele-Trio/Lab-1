@@ -30,6 +30,7 @@ h3{
 
     margin: 15px 0  15px 0;
     border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 3px;
     color: #7facaa;
 
 }
@@ -62,5 +63,65 @@ ol{
 
     color: #0000af;
     text-decoration: none;
+
+}
+
+.recipes{
+
+    list-style-type: none;
+
+}
+
+.recipes a{
+
+    color: #7facaa;
+    text-decoration: none;
+
+}
+
+.recipes li{
+
+    border: 1px solid #b56663;
+    padding-left: 15px;
+
+}
+
+.recipes h3{
+
+    border-bottom: 0;
+
+}
+
+body{
+
+    padding: 0 0 0 0;
+
+}
+
+.header{
+
+    padding: 10px 10px 10px 10px;
+    background-color: #b56663;
+
+}
+
+.header a{
+
+    color: #ffffff;
+
+}
+
+.header h1{
+
+    color: #ffffff;
+
+}
+
+.main-content{
+    
+    width: 500px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #dddddd;
+    margin: 30px auto 0 auto;
 
 }
